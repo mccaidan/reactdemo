@@ -1,4 +1,4 @@
-# React Tic-Tac-Toe Tutorial
+# React Tic-Tac-Toe Tutorial ([link](https://react.dev/learn/tutorial-tic-tac-toe))
 ## To run:
 * Download Node.js
 * Install dependencies with ```npm install```
